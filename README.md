@@ -22,3 +22,7 @@ Here are some ideas to get you started:
 </p>
 
 Hi. I’m Gopal. I am having experience of 7+ years in Microsoft .Net including WinForms, Asp.net, MVC, Windows Service, Web Api, SignalR, .Net Core, Blazor including DevExpress and Telerik Controls. I worked on ERP applications, HR, Payroll, Inventory and many more
+
+<img src="https://github-readme-stats.vercel.app/api?username=itsmekgg&show_icons=true" width=400>
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
