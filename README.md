@@ -27,3 +27,11 @@ Hi. I’m Gopal. I am having experience of 8+ years in Microsoft .Net including 
 <img src="https://github-readme-stats.vercel.app/api?username=itsmekgg&show_icons=true" width=400>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
+ ## 📈 My Github Stats!
+ 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsmekgg&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itsmekgg&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itsmekgg&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=itsmekgg&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=itsmekgg&theme=github_dark&utcOffset=8)
