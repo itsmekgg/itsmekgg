@@ -26,7 +26,8 @@ Hi. I’m Gopal. I am having experience of 8+ years in Microsoft .Net including 
 
 <img src="https://github-readme-stats.vercel.app/api?username=itsmekgg&show_icons=true" width=400>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+## Profile views counter 
+![Visitor Count](https://profile-counter.glitch.me/itsmekgg/count.svg) 
 
  ## 📈 My Github Stats!
  
