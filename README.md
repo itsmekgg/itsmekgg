@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 	<a target="_blank" href="https://www.linkedin.com/in/kggupta33/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 </p>
 
-Hi. I’m Gopal. I am having experience of 8+ years in Microsoft .Net including WinForms, Asp.net, MVC, Windows Service, Web Api, SignalR, .Net Core, Blazor including DevExpress and Telerik Controls. I worked on ERP applications, HR, Payroll, Inventory and many more
+Hi. I’m Gopal. I am having experience of 12+ years in Microsoft .Net including WinForms, Asp.net, MVC, Windows Service, Web Api, SignalR, .Net Core, Blazor including DevExpress and Telerik Controls. I worked on ERP applications, HR, Payroll, Inventory and many more
 
 <img src="https://github-readme-stats.vercel.app/api?username=itsmekgg&show_icons=true" width=400>
 
